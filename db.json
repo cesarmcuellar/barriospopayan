@@ -1,4 +1,5 @@
-{
+[
+  {
   "Comuna": "Comuna1",
   "Barrio": "Alcala"
 },
@@ -718,3 +719,4 @@
   "Comuna": "Comuna 9",
   "Barrio": "San Miguel"
 }
+]
