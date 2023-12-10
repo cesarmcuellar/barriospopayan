@@ -27,10 +27,6 @@
    },
    {
       "Comuna": "Comuna1",
-      "Barrio": "Capri"
-   },
-   {
-      "Comuna": "Comuna1",
       "Barrio": "Casas Fiscales"
    },
    {
@@ -44,10 +40,6 @@
    {
       "Comuna": "Comuna1",
       "Barrio": "El Recuerdo"
-   },
-   {
-      "Comuna": "Comuna1",
-      "Barrio": "Fancal"
    },
    {
       "Comuna": "Comuna1",
@@ -192,11 +184,7 @@
    {
       "Comuna": "Comuna 2",
       "Barrio": "Rincón La Aldea"
-   },
-   {
-      "Comuna": "Comuna 2",
-      "Barrio": "Río Vista"
-   },
+   },  
    {
       "Comuna": "Comuna 2",
       "Barrio": "San Fernando"
@@ -216,11 +204,7 @@
    {
       "Comuna": "Comuna 2",
       "Barrio": "Villa Claudia"
-   },
-   {
-      "Comuna": "Comuna 2",
-      "Barrio": "Villa Vista"
-   },
+   },  
    {
       "Comuna": "Comuna 2",
       "Barrio": "Villa del Viento"
