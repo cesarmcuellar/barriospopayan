@@ -7,15 +7,7 @@
 },
 {
   "Comuna": "Comuna1",
-  "Barrio": "Antonio Nariño"
-},
-{
-  "Comuna": "Comuna1",
   "Barrio": "Campamento"
-},
-{
-  "Comuna": "Comuna1",
-  "Barrio": "Campo Bello"
 },
 {
   "Comuna": "Comuna 2",
@@ -26,20 +18,12 @@
   "Barrio": "Bella Vista"
 },
 {
-  "Comuna": "Comuna 2",
-  "Barrio": "Bello Horizonte"
-},
-{
   "Comuna": "Comuna 3",
   "Barrio": "Aída Lucía"
 },
 {
   "Comuna": "Comuna 3",
   "Barrio": "Bolívar"
-},
-{
-  "Comuna": "Comuna 3",
-  "Barrio": "Ciudad Jardín"
 },
 {
   "Comuna": "Comuna 4",
